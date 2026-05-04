@@ -1,0 +1,3 @@
+lxml
+browserforge[all]
+requests
