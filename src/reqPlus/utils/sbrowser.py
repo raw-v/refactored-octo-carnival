@@ -1,5 +1,5 @@
 
-# from browserforge.headers import HeaderGenerator
+
 import browserforge.headers
 
 def gibe_random_ua(*args,**kw):
